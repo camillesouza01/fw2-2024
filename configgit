@@ -1,0 +1,2 @@
+git config --global user.name "Camille da Silva Souza"
+git config --global user.email "camille.souza@estudante.ifms.edu.br"
