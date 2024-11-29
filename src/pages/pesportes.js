@@ -1,4 +1,4 @@
-import { Container } from "react-bootstrap";
+import { Container, Table } from "react-bootstrap";
 import Menu from "./modulos/navbar";
 import Footer from "./modulos/footer";
 
