@@ -1,3 +1,5 @@
+import { esportes } from "./esportes";
+
 export default function handler(req, res) {
-    res.status(200).json({ message: 'Turma A manda!' })
+    res.status(200).json(esportes)
   }
